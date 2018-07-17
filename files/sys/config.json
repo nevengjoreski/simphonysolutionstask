@@ -1,0 +1,8 @@
+{
+  "database": {
+    "host": "localhost",
+    "dbname": "bets_converter",
+    "username": "root",
+    "password": ""
+  }
+}
