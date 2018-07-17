@@ -92,23 +92,33 @@ files
  
 **After the first initial load , you can test it offline in Chrome**
 
-![Alt text](showcase/offline_tip.png?raw=true "Offline Tip")
+![Screenshot](showcase/offline_tip.PNG?raw=true "Offline Tip")
 
 
 ## Showcase images
-![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
+
 ![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
 
-#####Error Handeling
-![Alt text](showcase/Error_Handeling.png?raw=true "Error_Handeling")
-![Alt text](blob/master/showcase/Error_Handeling.png?raw=true "Error_Handeling")
-#####HomeScreen
-![Alt text](showcase/HomeScreen.png?raw=true "HomeScreen")
-#####Improved loading time
-![Alt text](showcase/Improved_loading_time_SERVICE_WORKER.png?raw=true "Improved_loading_time_SERVICE_WORKER")
-#####Offline Detection
-![Alt text](showcase/Offline_Detection.png?raw=true "Offline_Detection")
-#####Smart Conversion Chart
-![Alt text](showcase/Smart_Conversion_Chart.png?raw=true "Smart_Conversion_Chart")
-#####Standard Conversion Chart
-![Alt text](showcase/Standard_Conversion_Chart.png?raw=true "Standard_Conversion_Chart")
+###Error Handeling
+
+![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
+
+###HomeScreen
+
+![Screenshot](showcase/HomeScreen.PNG?raw=true "HomeScreen")
+
+###Improved loading time
+
+![Screenshot](showcase/Improved_loading_time_SERVICE_WORKER.PNG?raw=true "Improved_loading_time_SERVICE_WORKER")
+
+###Offline Detection
+
+![Screenshot](showcase/Offline_Detection.PNG?raw=true "Offline_Detection")
+
+###Smart Conversion Chart
+
+![Screenshot](showcase/Smart_Conversion_Chart.PNG?raw=true "Smart_Conversion_Chart")
+
+###Standard Conversion Chart
+
+![Screenshot](showcase/Standard_Conversion_Chart.PNG?raw=true "Standard_Conversion_Chart")
