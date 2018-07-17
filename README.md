@@ -3,7 +3,7 @@
 This task was made for knowledge demonstration purpose !
 
 ## The Graphical User Interface - GUI 
-#####consists of three buttons that trigger
+**consists of three buttons that trigger**
 - **MODAL** *button* that is used for data conversion from database where the user have to choose the correct input field
    		and a table that shows the data from the database
    		
@@ -17,7 +17,7 @@ This task was made for knowledge demonstration purpose !
 - data loaded from database
 - user input being logged
 - properly format code
-- security ( done in the back-end mostly ) //SQL Injection, XSS
+- security ( done in the back-end mostly )   *SQL Injection, XSS*
 
 ## Bonus Features
 - ENABLED OFFLINE MODE via ServiceWorkers
@@ -47,6 +47,7 @@ WAMP or XAMPP or MAMP or LAMP with php 7+
 * PHP
 * mySQL
 
+
 ##Files structure
 
 ------------
@@ -67,18 +68,20 @@ files
 └── serviceWorker.js            // Service Worker for offline and caching
 ```
 
-##SQL Database 
-#####has two tables - The Database creation file is bets_converter.sql
-	- conversion_chart	        // the table where the conversion data comes from
-		* id
-		* fractional_odds
-		* decimal_odds
-		* moneyline_odds
-	- input log			// the table where the user input is being logged
-		* id
-		* field_value
-		* field_id
-		* data_created
+## SQL Database 
+
+**has two tables - The Database creation file is bets_converter.sql**
+
+- **conversion_chart** *the table where the conversion data comes from* 
+    * id
+    * fractional_odds
+    * decimal_odds
+    * moneyline_odds
+- **input log**			*the table where the user input is being logged*
+    * id
+    * field_value
+    * field_id
+    * data_created
 
 ## Authors
 
@@ -92,8 +95,12 @@ files
 
 
 ## Showcase images
+![Screenshot](showcase/Error_Handeling.png?raw=true "Error_Handeling")
+![Screenshot](blob/master/showcase/Error_Handeling.png?raw=true "Error_Handeling")
+
 #####Error Handeling
 ![Alt text](showcase/Error_Handeling.png?raw=true "Error_Handeling")
+![Alt text](blob/master/showcase/Error_Handeling.png?raw=true "Error_Handeling")
 #####HomeScreen
 ![Alt text](showcase/HomeScreen.png?raw=true "HomeScreen")
 #####Improved loading time
