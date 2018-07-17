@@ -48,7 +48,7 @@ WAMP or XAMPP or MAMP or LAMP with php 7+
 * mySQL
 
 
-##Files structure
+## Files structure
 
 ------------
 ```
