@@ -97,23 +97,9 @@ files
 
 ## Showcase images
 
-![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
-
-### Error Handeling
-
-![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
-
 ### HomeScreen
 
 ![Screenshot](showcase/HomeScreen.PNG?raw=true "HomeScreen")
-
-### Improved loading time
-
-![Screenshot](showcase/Improved_loading_time_SERVICE_WORKER.PNG?raw=true "Improved_loading_time_SERVICE_WORKER")
-
-### Offline Detection
-
-![Screenshot](showcase/Offline_Detection.PNG?raw=true "Offline_Detection")
 
 ### Smart Conversion Chart
 
@@ -122,3 +108,15 @@ files
 ### Standard Conversion Chart
 
 ![Screenshot](showcase/Standard_Conversion_Chart.PNG?raw=true "Standard_Conversion_Chart")
+
+### Error Handeling
+
+![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
+
+### Improved loading time
+
+![Screenshot](showcase/Improved_loading_time_SERVICE_WORKER.PNG?raw=true "Improved_loading_time_SERVICE_WORKER")
+
+### Offline Detection
+
+![Screenshot](showcase/Offline_Detection.PNG?raw=true "Offline_Detection")
