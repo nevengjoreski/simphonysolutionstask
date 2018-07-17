@@ -88,15 +88,16 @@ files
 * **Neven Gjoreski** - *Initial work* - [nevengjoreski](https://github.com/nevengjoreski)
 
 
-##Offline 
-#####After the first initial load , you can test it offline in Chrome
+##Offline
+ 
+**After the first initial load , you can test it offline in Chrome**
 
 ![Alt text](showcase/offline_tip.png?raw=true "Offline Tip")
 
 
 ## Showcase images
-![Screenshot](showcase/Error_Handeling.png?raw=true "Error_Handeling")
-![Screenshot](blob/master/showcase/Error_Handeling.png?raw=true "Error_Handeling")
+![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
+![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
 
 #####Error Handeling
 ![Alt text](showcase/Error_Handeling.png?raw=true "Error_Handeling")
