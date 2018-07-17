@@ -88,7 +88,7 @@ files
 * **Neven Gjoreski** - *Initial work* - [nevengjoreski](https://github.com/nevengjoreski)
 
 
-##Offline
+## Offline Tip
  
 **After the first initial load , you can test it offline in Chrome**
 
@@ -99,26 +99,26 @@ files
 
 ![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
 
-###Error Handeling
+### Error Handeling
 
 ![Screenshot](showcase/Error_Handeling.PNG?raw=true "Error_Handeling")
 
-###HomeScreen
+### HomeScreen
 
 ![Screenshot](showcase/HomeScreen.PNG?raw=true "HomeScreen")
 
-###Improved loading time
+### Improved loading time
 
 ![Screenshot](showcase/Improved_loading_time_SERVICE_WORKER.PNG?raw=true "Improved_loading_time_SERVICE_WORKER")
 
-###Offline Detection
+### Offline Detection
 
 ![Screenshot](showcase/Offline_Detection.PNG?raw=true "Offline_Detection")
 
-###Smart Conversion Chart
+### Smart Conversion Chart
 
 ![Screenshot](showcase/Smart_Conversion_Chart.PNG?raw=true "Smart_Conversion_Chart")
 
-###Standard Conversion Chart
+### Standard Conversion Chart
 
 ![Screenshot](showcase/Standard_Conversion_Chart.PNG?raw=true "Standard_Conversion_Chart")
